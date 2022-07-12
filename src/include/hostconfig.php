@@ -3,9 +3,9 @@ header('Access-Control-Allow-Origin: *');
 
 define('DRIVER', 'MySQL');
 define('HOST', 'localhost');
-define('UID', 'webdev2');
-define('PASSWORD', 'dev2@USER#');
-define('DB', 'train_db2');
+define('UID', '');
+define('PASSWORD', '');
+define('DB', '');
 
 define('ROOT', dirname(dirname(__FILE__)));
 date_default_timezone_set('Asia/Bangkok');
